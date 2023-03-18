@@ -1,0 +1,6 @@
+[submodule "idolhandshake-api"]
+	path = idolhandshake-api
+	url = git@github.com:deviate-team/idolhandshake-api.git
+[submodule "idolhandshake-client"]
+	path = idolhandshake-client
+	url = git@github.com:deviate-team/idolhandshake-client.git
